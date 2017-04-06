@@ -1,0 +1,70 @@
+# Blender MTL File: 'cf_b3.blend'
+# Material Count: 6
+
+newmtl _door.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+map_d H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+
+newmtl _door.001_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+map_d H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+
+newmtl walls_in
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+
+newmtl walls_out
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+
+newmtl win_b
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+
+newmtl windows_out
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
