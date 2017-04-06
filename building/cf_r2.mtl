@@ -1,0 +1,38 @@
+# Blender MTL File: 'cf_b2.blend'
+# Material Count: 3
+
+newmtl _roof
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+map_d H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+
+newmtl _roof_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+map_d H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
+
+newmtl _roof_face
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd H:\3d\blender\projects\cf\env\cf_t_building.png
+map_d H:\\3d\\blender\\projects\\cf\\env\\cf_t_building.png
