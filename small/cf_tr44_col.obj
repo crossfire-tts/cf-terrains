@@ -1,0 +1,12 @@
+# Blender v2.79 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib cf_tr44_col.mtl
+o Plane_Plane.003
+v -2.433612 0.100000 1.860509
+v 2.433612 0.100000 1.860509
+v -2.433612 0.100000 -1.860509
+v 2.433612 0.100000 -1.860509
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 1//1 2//1 4//1 3//1
